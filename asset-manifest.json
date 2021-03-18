@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ibcascm/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ibcascm/static/js/main.b66b517c.chunk.js",
+    "main.js.map": "/ibcascm/static/js/main.b66b517c.chunk.js.map",
+    "runtime-main.js": "/ibcascm/static/js/runtime-main.5504eb75.js",
+    "runtime-main.js.map": "/ibcascm/static/js/runtime-main.5504eb75.js.map",
+    "static/js/2.dbc2b329.chunk.js": "/ibcascm/static/js/2.dbc2b329.chunk.js",
+    "static/js/2.dbc2b329.chunk.js.map": "/ibcascm/static/js/2.dbc2b329.chunk.js.map",
+    "static/js/3.5d99f34d.chunk.js": "/ibcascm/static/js/3.5d99f34d.chunk.js",
+    "static/js/3.5d99f34d.chunk.js.map": "/ibcascm/static/js/3.5d99f34d.chunk.js.map",
+    "index.html": "/ibcascm/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ibcascm/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbc2b329.chunk.js.LICENSE.txt": "/ibcascm/static/js/2.dbc2b329.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ibcascm/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5504eb75.js",
+    "static/js/2.dbc2b329.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b66b517c.chunk.js"
+  ]
+}
